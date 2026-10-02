@@ -1,0 +1,4 @@
+[submodule "custom_addons/stock-logistics-transport"]
+	path = custom_addons/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+	branch = 17.0
